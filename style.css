@@ -1,4 +1,7 @@
- #mrjones{
+body {
+    background-color: yellowgreen;
+}
+#mrjones{
                 color: burlywood;
             }
             h1, h2, h3, h4 {
